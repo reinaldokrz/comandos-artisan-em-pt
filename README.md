@@ -1,2 +1,3 @@
 # comandos-artisan-em-pt
-Comandos php artisan laravel 7
+Comandos traduzidos em portigues ( Brasil)
+do php artisan laravel 7
